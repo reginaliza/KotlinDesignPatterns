@@ -1,4 +1,4 @@
-package behavioralPattern
+package behavioralPattern.state
 
 sealed class AuthorizationState
 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="structuralPattern.facade.FacadeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-27T09:49:39" hostname="GFI02245.local" time="0.029">
+  <properties/>
+  <testcase name="testManilaAddress()" classname="structuralPattern.facade.FacadeTest" time="0.025"/>
+  <testcase name="testCJName()" classname="structuralPattern.facade.FacadeTest" time="0.001"/>
+  <testcase name="testReginaName()" classname="structuralPattern.facade.FacadeTest" time="0.001"/>
+  <system-out><![CDATA[City: Manila
+Name: CJ Corona
+Name: Regina Diloy
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
