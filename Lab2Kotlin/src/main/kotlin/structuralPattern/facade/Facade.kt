@@ -1,19 +1,5 @@
 package structuralPattern.facade
 
-class UserName {
-
-    var name: String = ""
-        set(value) {
-            field = value
-        }
-
-    fun namePrinter() : String {
-        println("Name: $name")
-        return name
-    }
-
-}
-
 class UserAddress {
 
     var address: String = ""
@@ -25,6 +11,8 @@ class UserAddress {
         println("City: $address")
         return address
     }
+
+
 }
 
 class UserDetails {
@@ -43,3 +31,16 @@ class UserDetails {
     }
 }
 
+class UserName {
+
+    var name: String = ""
+        set(value) {
+            field = value
+        }
+
+    fun namePrinter() : String {
+        println("Name: $name")
+        return name
+    }
+
+}

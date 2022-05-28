@@ -17,5 +17,6 @@ class DecoratorTest {
             )
         )
         assertEquals("Hello, World!", printer.printedText())
+
     }
 }

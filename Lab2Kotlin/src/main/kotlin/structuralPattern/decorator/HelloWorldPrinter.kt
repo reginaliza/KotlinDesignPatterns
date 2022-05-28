@@ -3,6 +3,7 @@ package structuralPattern.decorator
 
 interface MyPrinter {
     fun printedText() : String
+
 }
 
 class HelloPrinter : MyPrinter {

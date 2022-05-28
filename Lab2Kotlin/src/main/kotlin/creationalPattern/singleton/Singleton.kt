@@ -1,4 +1,4 @@
-package creationalPattern
+package creationalPattern.singleton
 
 object PrinterDriver {
     init {

@@ -1,18 +1,4 @@
-package creationalPattern
-
-/**
- * pattern: Builder
- *
- * using: used to create complex objects
- *
- * description: to create an object, an auxiliary class Builder is used, which has methods for changing the fields of our main class.
- */
-
-
-/**
- * first variant
- *
- */
+package creationalPattern.builder
 
 class Work {
     private val name: String

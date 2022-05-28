@@ -1,6 +1,5 @@
 package creationalPattern.singleton
 
-import creationalPattern.PrinterDriver
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 

@@ -1,6 +1,5 @@
 package creationalPattern.builder
 
-import creationalPattern.Work
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 
