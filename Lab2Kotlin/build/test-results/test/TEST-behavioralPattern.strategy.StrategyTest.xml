@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="behavioralPattern.strategy.StrategyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-28T06:00:15" hostname="GFI02245" time="0.021">
+  <properties/>
+  <testcase name="testTempManila()" classname="behavioralPattern.strategy.StrategyTest" time="0.021"/>
+  <system-out><![CDATA[The temperature now in Manila is 29 degrees Celsius
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

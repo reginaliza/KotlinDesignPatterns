@@ -33,7 +33,7 @@ class PinoyMusic() : Music() {
     }
 
     override fun play() {
-        println("Pagsamo song is now playing...")
+        println("$music song is now playing...")
     }
 
     override fun stop() {
@@ -49,7 +49,7 @@ class WesternMusic() : Music() {
     }
 
     override fun play() {
-        println("Sun and Moon song is now playing...")
+        println("$music song is now playing...")
     }
 
     override fun stop() {
