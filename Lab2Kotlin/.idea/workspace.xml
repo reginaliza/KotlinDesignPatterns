@@ -75,29 +75,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.FacadeTest">
-    <configuration name="DecoratorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;structuralPattern.decorator.DecoratorTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="FacadeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -112,6 +89,29 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;structuralPattern.facade.FacadeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SingletonTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;creationalPattern.singleton.SingletonTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -193,10 +193,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.FacadeTest" />
-        <item itemvalue="Gradle.TemplateTest" />
+        <item itemvalue="Gradle.SingletonTest" />
         <item itemvalue="Gradle.StrategyTest" />
+        <item itemvalue="Gradle.TemplateTest" />
         <item itemvalue="Gradle.TemplateTest.testPagsamo" />
-        <item itemvalue="Gradle.DecoratorTest" />
       </list>
     </recent_temporary>
   </component>

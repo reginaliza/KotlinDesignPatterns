@@ -6,7 +6,7 @@ import kotlin.test.assertEquals
 class SingletonTest {
 
     @Test
-    fun Singleton() {
+    fun testSingleton() {
         val printerFirst = PrinterDriver.print()
         val printerSecond = PrinterDriver.print()
 
